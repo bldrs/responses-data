@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-03-09T20:33:20.649Z",
+  "byType": {
+    "prompt": {
+      "dates": [
+        "2026-03-09"
+      ],
+      "count": 0,
+      "publicCount": 0,
+      "items": []
+    },
+    "response": {
+      "dates": [],
+      "count": 0,
+      "publicCount": 0,
+      "items": []
+    },
+    "commit": {
+      "dates": [],
+      "count": 0,
+      "publicCount": 0,
+      "items": []
+    },
+    "build": {
+      "dates": [],
+      "count": 0,
+      "publicCount": 0,
+      "items": []
+    },
+    "milestone": {
+      "dates": [],
+      "count": 0,
+      "publicCount": 0,
+      "items": []
+    },
+    "issue": {
+      "dates": [],
+      "count": 0,
+      "publicCount": 0,
+      "items": []
+    },
+    "timeline": {
+      "dates": [],
+      "count": 0,
+      "publicCount": 0,
+      "items": []
+    }
+  },
+  "byDate": {}
+}
