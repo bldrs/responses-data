@@ -2,6 +2,19 @@
   "date": "2026-03-10T07:00:00.000Z",
   "entries": [
     {
+      "id": "1773157140819-5skv5p8ro",
+      "type": "prompt",
+      "filename": "arc-extensions",
+      "title": "ARC Extensions",
+      "tags": [
+        "ARC",
+        "Extensions"
+      ],
+      "isPublic": false,
+      "createdAt": "2026-03-10T15:39:00.819Z",
+      "updatedAt": "2026-03-10T15:39:00.819Z"
+    },
+    {
       "id": "1773154980730-67b3nlyct",
       "type": "response",
       "filename": "html-to-markdown-conversion",
@@ -15,8 +28,9 @@
     }
   ],
   "stats": {
-    "total": 1,
+    "total": 2,
     "byType": {
+      "prompt": 1,
       "response": 1
     }
   }
